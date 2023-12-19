@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Siddharth Narayan Mishra! 👋
 
 Welcome to my GitHub profile! I'm passionate about websites and prgramming!
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about websites and prgramming!
 ### Version Control
 
 - **Git**
-- **GitHub/GitLab/Bitbucket**
+- **GitHub**
 
 ### Tools
 
