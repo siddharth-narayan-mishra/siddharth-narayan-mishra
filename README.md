@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm passionate about websites and prgramming!
 
 ## Technologies & Tools
 
-## Technologies & Tools
-
 ### Programming Languages
 
 - **JavaScript/Node.js**
