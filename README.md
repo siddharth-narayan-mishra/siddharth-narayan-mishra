@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about websites and prgramming!
 
 ### Programming Languages
 
-- **JavaScript/Node.js**
+- **JavaScript**
 - **C++**
 
 ### Web Development
