@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Welcome to my GitHub profile! I'm a curious developer with a passion for crafting intuitive digital experiences and exploring the boundaries of technology.
+  Welcome to my GitHub profile! I'm a curious developer with a passion for crafting intuitive digital experiences and pushing the boundaries of technology.
 </p>
 
 ---
@@ -12,12 +12,13 @@
 <h2 align="center">About Me</h2>
 
 <p>
-  I'm a sophomore in Computer Science at NIT Rourkela. I enjoy turning complex problems into simple, beautiful solutions. My main interests lie in full-stack development, and I love experimenting with new tools and technologies.
+  I'm a pre-final year Computer Science student at NIT Rourkela. I enjoy transforming complex ideas into elegant, functional solutions. My foundation lies in full-stack development, and lately, I’ve been diving into systems-level programming and game development. I'm currently exploring Rust and building games from scratch in C++ — taking on new challenges that push me out of my comfort zone.
+</p>
 
 ---
 
 <!-- Technologies & Tools -->
-<h2>Technologies & Tools </h2>
+<h2>Technologies & Tools</h2>
 
 <!-- Programming Languages -->
 <h3>Languages</h3>
@@ -25,6 +26,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
 </p>
 
@@ -52,7 +54,7 @@
 ---
 
 <!-- Connect -->
-<h2>Let's Connect </h2>
+<h2>Let's Connect</h2>
 
 <p>
   📧 <a href="mailto:siddharthnmishra7@gmail.com">siddharthnmishra7@gmail.com</a>
